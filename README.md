@@ -12,6 +12,8 @@ Docket is a terminal-based user interface (TUI) for managing Docker containers a
 
 ## 🛠 Installation
 
+### If you are not on Windows or arch linux:
+
 Ensure you have Go and Docker installed. Then, clone the repo and build it:
 
 ```sh
@@ -25,6 +27,14 @@ Run the application:
 ```sh
 ./docket
 ```
+
+### If you are on arch linux
+
+```sh
+yay -S docket
+```
+
+> If you are on windows, download the installer from the releases section and install it.
 
 ## ⌨️ Keyboard Shortcuts
 
