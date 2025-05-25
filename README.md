@@ -17,7 +17,7 @@ Docket is a terminal-based user interface (TUI) for managing Docker containers a
 Ensure you have Go and Docker installed. Then, clone the repo and build it:
 
 ```sh
-git clone https://github.com/yourusername/docket.git
+git clone https://github.com/thekushdhingra/docket.git
 cd docket
 go build -o docket
 ```
